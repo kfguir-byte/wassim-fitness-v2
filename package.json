@@ -1,0 +1,8 @@
+{
+  "name": "wassim-fitness",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No build required'",
+    "start": "npx serve ."
+  }
+}
